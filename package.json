@@ -1,12 +1,12 @@
 {
-    "name": "cage-icons",
-    "displayName": "Cage Icons",
-    "description": "Nicolas Cage Icons",
+    "name": "frame-icons",
+    "displayName": "Framework Icons",
+    "description": "Framework Advpl Icons",
     "version": "0.0.6",
-    "publisher": "stepanog",
+    "publisher": "Dadinel",
     "repository": {
       "type": "git",
-      "url": "https://github.com/GabeStep/cage-icons"
+      "url": "https://github.com/Dadinel/cage-icons"
     },
     "engines": {
         "vscode": "^1.17.0"
@@ -18,8 +18,8 @@
     "contributes": {
         "iconThemes": [
 			{
-				"id": "cage",
-				"label": "Cage Icons",
+				"id": "fw",
+				"label": "Framework Icons",
 				"path": "./fileicons/cage-icon-theme.json"
 			}
 		]

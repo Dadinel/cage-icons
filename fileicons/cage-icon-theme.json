@@ -27,6 +27,45 @@
 		"css": {
 		  "iconPath": "./images/css.png"
 		},
+		"prw": {
+		  "iconPath": "./images/prw.png"
+		},
+		"prx": {
+		  "iconPath": "./images/prx.png"
+		},
+		"prg": {
+		  "iconPath": "./images/prx.png"
+		},
+		"ch": {
+		  "iconPath": "./images/ch.png"
+		},
+		"tres": {
+		  "iconPath": "./images/tres.png"
+		},
+		"aph": {
+		  "iconPath": "./images/aph.png"
+		},
+		"apl": {
+		  "iconPath": "./images/apl.png"
+		},
+		"tlpp": {
+		  "iconPath": "./images/tlpp.png"
+		},
+		"apw": {
+		  "iconPath": "./images/apw.png"
+		},
+		"ini": {
+		  "iconPath": "./images/ini.png"
+		},
+		"ts": {
+		  "iconPath": "./images/ts.png"
+		},
+		"txt": {
+		  "iconPath": "./images/txt.png"
+		},
+		"ps1": {
+		  "iconPath": "./images/ps1.png"
+		},
 		"javascript": {
 		  "iconPath": "./images/javascript.png"
 		}
@@ -46,6 +85,19 @@
 		"asp": "html",
 		"cs": "csharp",
 		"css": "css",
+		"prw": "prw",
+		"prx": "prx",
+		"prg": "prg",
+		"ch": "ch",
+		"tres": "tres",
+		"aph": "aph",
+		"apl": "apl",
+		"tlpp": "tlpp",
+		"apw": "apw",
+		"ini": "ini",
+		"ts": "ts",
+		"txt": "txt",
+		"ps1": "ps1",
 		"js": "javascript",
 		"ejs": "javascript",
 		"esx": "javascript"
