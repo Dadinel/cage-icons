@@ -2,11 +2,11 @@
     "name": "frame-icons",
     "displayName": "Framework Icons",
     "description": "Framework Advpl Icons",
-    "version": "0.0.6",
+    "version": "0.0.1",
     "publisher": "Dadinel",
     "repository": {
       "type": "git",
-      "url": "https://github.com/Dadinel/cage-icons"
+      "url": "https://github.com/Dadinel/cage-icons/tree/Framework-icons"
     },
     "engines": {
         "vscode": "^1.17.0"
@@ -20,7 +20,7 @@
 			{
 				"id": "fw",
 				"label": "Framework Icons",
-				"path": "./fileicons/cage-icon-theme.json"
+				"path": "./fileicons/frame-icon-theme.json"
 			}
 		]
     }
