@@ -14,4 +14,4 @@ ext install frame-icons
 
 ## Example
 
-![Example](example.png)
+![Example](fw_example.png)
